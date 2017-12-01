@@ -18,9 +18,6 @@
  * limitations under the License.
  *
  */
-
-
-
 #include"gps_read.h"
 #include <stdlib.h>
 #include <core/EventDispatcher.h>
